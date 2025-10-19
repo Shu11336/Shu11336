@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Moaaz Shouman
 
-<!--
-**Shu11336/Shu11336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Backend intern at:  [Black Waves](https://blackwaveseg.com) 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a intern backend developer in progress, building reliable and scalable server-side applications. I work with JavaScript/Python 
+
+- **Languages:** TypeScript,python,c++
+- **Backend:** Node.js, Bun, Express.js, Elysia.js
+- **Databases:** PostgreSQL (SQL), MongoDB (NoSQL)
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shu11336&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com?user=Shu11336)
