@@ -8,7 +8,7 @@
 
 I'm a intern backend developer in progress, building reliable and scalable server-side applications. I work with JavaScript/Python 
 
-- **Languages:** TypeScript, python, c++
+- **Languages:** TypeScript, Python, C++
 - **Backend:** Node.js, Bun, Express.js, Elysia.js
 - **Databases:** PostgreSQL (SQL), MongoDB (NoSQL)
 ---
