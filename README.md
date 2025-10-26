@@ -13,6 +13,6 @@ I'm a intern backend developer in progress, building reliable and scalable serve
 - **Databases:** PostgreSQL (SQL), MongoDB (NoSQL)
 ---
 
-## 🔥 GitHub Streak
+// ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shu11336&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com?user=Shu11336)
+//// //[![GitHub Streak](https://streak-stats.demolab.com?user=Shu11336&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com?user=Shu11336)
